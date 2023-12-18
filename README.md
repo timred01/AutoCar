@@ -88,7 +88,7 @@ Pengguna yang dapat memakai sistem ini adalah Admin & User.
       </td>
       <td width="33%">
         <h5>Halaman List Mobil</h5>
-        <img src="assets/ss/List.png.png">
+        <img src="assets/ss/List.png">
       </td>
       <td width="33%">
         <h5>Halaman FAQS</h5>
